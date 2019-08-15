@@ -15,7 +15,6 @@
 #define FALSE		0
 #define SUCCESS		0
 #define FAILURE		-1
-#define MAX_FINITE_BUFFER_LENGTH	50
 
 #define REQ_ARRIVAL_RATE		"-r"
 #define FINITE_BUFFER 			"-L"
